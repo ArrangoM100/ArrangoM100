@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Messier77
+- 👀 I’m interested in flipper zero
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on flipper zero cfm
